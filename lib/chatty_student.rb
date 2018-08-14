@@ -1,3 +1,3 @@
-class Student
+ChattyStuden < Student
   
 end 
