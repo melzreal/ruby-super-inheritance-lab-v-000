@@ -11,7 +11,7 @@ class ChattyStudent < Student
     
     while ch < 10 
       super
-      ch++
+      ch+=1
     end 
     
   end 
