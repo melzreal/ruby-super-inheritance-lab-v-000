@@ -1,3 +1,5 @@
 ChattyStuden < Student
   
+  
+  
 end 
